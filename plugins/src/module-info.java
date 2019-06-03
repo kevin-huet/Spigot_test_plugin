@@ -1,0 +1,3 @@
+module plugins {
+	requires server;
+}

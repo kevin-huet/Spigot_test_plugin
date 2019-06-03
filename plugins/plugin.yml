@@ -1,0 +1,10 @@
+main: plugins.lol.mc.Main
+name: test
+version: '1.0'
+description: A test plugin
+author: Kevin
+prefix: Testing
+commands:
+  test:
+   description: print location
+   usage: /<command>
